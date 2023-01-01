@@ -1,0 +1,15 @@
+.div-1{
+    border: 3px solid black;
+    border-radius: 4px;
+    width: 400px;
+}
+
+.black{
+    border: 3px solid black;
+    border-radius: 4px;
+    width: 300px;
+}
+
+.box{
+    border: 3px solid red;
+}
